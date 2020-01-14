@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.login .col-md-8 {
+  margin: 0 auto;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.infoWindowText {
+  color: black;
+  font-size: 1rem;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.logo {
+  display: block;
+  padding: 150px 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.container h1 {
+  margin: 30px 0 20px;
+  font-size: 2rem;
+}
+.container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+hr {
+  margin-top: 10px;
+}
+footer {
+  background-color: #282c34;
+  color: white;
+}
+
+.navbar-nav {
+  justify-content: space-around;
+}
+.nav-links {
+  width: 20%;
+}
+
+.logoNav {
+  width: 100%;
+}
+
+section {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  padding: 10px 50px;
+  border-radius: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+button:focus{
+  outline: none;
+}

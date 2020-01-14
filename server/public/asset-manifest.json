@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb0b85b1.chunk.css",
+    "main.js": "/static/js/main.af37ecb0.chunk.js",
+    "main.js.map": "/static/js/main.af37ecb0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.84650818.chunk.js": "/static/js/2.84650818.chunk.js",
+    "static/js/2.84650818.chunk.js.map": "/static/js/2.84650818.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b8154224c7d62e3e43b5fdf61a3feb18.js": "/precache-manifest.b8154224c7d62e3e43b5fdf61a3feb18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fb0b85b1.chunk.css.map": "/static/css/main.fb0b85b1.chunk.css.map",
+    "static/media/Asistencia en tu mano.png": "/static/media/Asistencia en tu mano.0101f84e.png"
+  }
+}
